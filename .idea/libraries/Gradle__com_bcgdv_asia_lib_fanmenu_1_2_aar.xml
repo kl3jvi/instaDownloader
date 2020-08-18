@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bcgdv.asia.lib:fanmenu:1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe0916d0a12381aa10d749f072374f31/jetified-fanmenu-1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe0916d0a12381aa10d749f072374f31/jetified-fanmenu-1.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bcgdv.asia.lib/fanmenu/1.2/efd20a72909e31b64a3e6bf8e4d3372cf2d1ba9a/fanmenu-1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bcgdv.asia.lib/fanmenu/1.2/25bfcb043ec9eee6667916b17310ec7bcff06826/fanmenu-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
